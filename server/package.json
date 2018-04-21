@@ -1,0 +1,15 @@
+{
+  "name": "DroneElie500",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.14.0",
+    "morgan": "1.4.1",
+    "serialport": "3.1.2",
+    "socket.io": "1.4.8",
+    "python-shell": "0.4.0",
+    "mavlink": "1.0.1"
+  }
+}
